@@ -70,12 +70,6 @@ Open the folder
 
 ---
 
-## 📂 Project Structure
-
-Task-Manager/ │── medialab/ # JSON files for persistent storage │ ├── categories.json │ ├── priorities.json │ ├── reminders.json │ ├── tasks.json │── src/ # Main source code │ ├── Category/ # Handles category-related logic │ ├── Priority/ # Priority level management │ ├── Reminder/ # Reminder system for tasks │ ├── Task/ # Task-related functionalities │ ├── MainController/ # Main JavaFX controller │ ├── Main.java # Application entry point │ ├── Main.fxml # JavaFX UI layout (created in Scene Builder) │── .gitignore # Git ignore file │── Task-Manager.iml # IntelliJ IDEA project configuration file
-
----
-
 ## 👩‍💻 About the Contributor  
 Hi! I'm **Alexandra Moraitaki**, a passionate computer engineering student at NTUA.  
 
