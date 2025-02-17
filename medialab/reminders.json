@@ -1,0 +1,14 @@
+[
+  {
+    "task": {
+      "title": "Medialab Assistant",
+      "description": "Task Manager",
+      "category": "multimedia",
+      "priority": "high",
+      "deadline": "2025-02-21",
+      "status": "OPEN"
+    },
+    "reminderType": "ONE_DAY_BEFORE",
+    "reminderDate": "2025-02-20"
+  }
+]
