@@ -74,7 +74,7 @@ Open the folder
 Hi! I'm **Alexandra Moraitaki**, a passionate computer engineering student at NTUA.  
 
 📫 **Want to connect?**  
-- LinkedIn: [linkedin.com/in/alexandra-moraitaki]
+- LinkedIn: [LinkedIn: alexandra-moraitaki](https://www.linkedin.com/in/alexandra-moraitaki/)
 - Email: moraitaki.alexandra@gmail.com 
 
 ## 🙌 Thank You!  
