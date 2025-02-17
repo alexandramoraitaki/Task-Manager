@@ -8,7 +8,7 @@ MediaLab Assistant is a smart and intuitive **task management system**, designed
 ✔ **Tired of messy to-do lists?** Keep your tasks structured and organized.  
 ✔ **Never miss a deadline again!** Smart reminders help you stay on track.  
 ✔ **Track your productivity.** View completed vs. pending tasks in a visual format.  
-✔ **Simple yet powerful.** A clean UI with essential features—no clutter.  
+✔ **Simple yet powerful.** A clean UI with essential features!
 
 ## 🎯 Who Should Use This?
 👩‍🎓 **Students** – Keep track of assignments & deadlines.  
@@ -74,7 +74,7 @@ Open the folder
 Hi! I'm **Alexandra Moraitaki**, a passionate computer engineering student at NTUA.  
 
 📫 **Want to connect?**  
-- LinkedIn: [Your LinkedIn](linkedin.com/in/alexandra-moraitaki)  
+- LinkedIn: [linkedin.com/in/alexandra-moraitaki]
 - Email: moraitaki.alexandra@gmail.com 
 
 ## 🙌 Thank You!  
