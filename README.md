@@ -47,11 +47,28 @@ git clone https://github.com/alexandramoraitaki/Task-Manager.git
 Then, navigate to the project folder:
 cd Task-Manager
 ```
+Make sure you have Java 23 and JavaFX SDK 23+ installed locally.
+
 ### 2. Open in Intellij IDEA (or your IDE):
 Open the folder
+
+Since this project uses JavaFX without a build tool (like Maven or Gradle), you need to manually provide the JavaFX libraries:
+
+Go to Run > Edit Configurations…
+
+Add a new Application configuration:
+- Main class: Main (or use the file picker to locate it)
+- VM options:
+--module-path "C:\path\to\javafx-sdk-23.0.1\lib" --add-modules javafx.controls,javafx.fxml
+Replace the path with the actual location where you installed the JavaFX SDK.
+Apply the configuration and save.
+
 ### 3. Run the Application:
 - Locate the Main.java file inside src/.
 - Click the Run button in IntelliJ.
+- 
+💡 Need Help?
+📦 Download JavaFX SDK: https://gluonhq.com/products/javafx/
 
 ---
 
